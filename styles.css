@@ -59,7 +59,7 @@ body {
   width: 50%;
   left: 25%;
   top: 10%;
-  background-color: white;
+  background-color: #fffaef;
   -webkit-clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
   clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
 }
@@ -69,7 +69,7 @@ body {
   width: 10%;
   top: 25%;
   left: 30%;
-  background-color: black;
+  background-color: #181714;
   border-radius: 50%;
 }
 #eyeR {
@@ -78,7 +78,7 @@ body {
   width: 10%;
   top: 25%;
   right: 30%;
-  background-color: black;
+  background-color: #181714;
   border-radius: 50%;
 }
 .pupil {
@@ -87,7 +87,7 @@ body {
   width: 20%;
   top: 20%;
   left: 20%;
-  background-color: white;
+  background-color: #fffaef;
   border-radius: 50%;
 }
 #mouthArea {
@@ -96,7 +96,7 @@ body {
   height: 40%;
   bottom: 20%;
   left: 30%;
-  background-color: white;
+  background-color: #fffaef;
   border-radius: 50%;
 }
 #noseBridge {
@@ -105,7 +105,7 @@ body {
   height: 80%;
   bottom: 75%;
   left: 40%;
-  background-color: white;
+  background-color: #fffaef;
   border-radius: 80%;
 }
 #nose {
@@ -114,7 +114,7 @@ body {
   height: 30%;
   top: 20%;
   left: 35%;
-  background-color: black;
+  background-color: #181714;
   border-radius: 50%;
   z-index: 1;
 }
@@ -124,7 +124,7 @@ body {
   height: 50%;
   bottom: 30%;
   left: 29%;
-  border: 2px solid black;
+  border: 2px solid #181714;
   border-color: transparent transparent #000 transparent;
   border-radius: 0 0 28px 50%/40px;
 }
@@ -134,7 +134,7 @@ body {
   height: 40%;
   bottom: -45%;
   left: 38%;
-  background-color: red;
+  background-color: #ff2222;
   border-bottom-left-radius: 40%;
   border-bottom-right-radius: 40%;
 }
@@ -142,7 +142,7 @@ body {
   position: absolute;
   height: 20%;
   left: 43%;
-  border: white solid 1px;
+  border: #bf0000 solid 1px;
 }
 #scarf {
   position: absolute;
@@ -150,7 +150,7 @@ body {
   height: 60%;
   bottom: -48%;
   left: 10%;
-  background-color: red;
+  background-color: #ff2222;
   -webkit-clip-path: polygon(100% 0, 0 0, 50% 54%);
   clip-path: polygon(100% 0, 0 0, 50% 54%);
   z-index: -1;
