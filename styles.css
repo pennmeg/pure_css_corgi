@@ -1,0 +1,10 @@
+body {
+  background-color: #d6ebf2 ;
+}
+#box {
+  position: relative;
+  margin: auto;
+  display: block;
+  width: 600px;
+  height: 420px;
+}
