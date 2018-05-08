@@ -18,3 +18,48 @@ body {
   background-color: #eca970;
   border-radius: 50%;
 }
+#headTop {
+  position: absolute;
+  height: 60%;
+  width: 98%;
+  top: -20%;
+  left: 1%;
+  background-color: #eca970;
+  -webkit-clip-path: polygon(20% 0%, 81% 0, 100% 100%, 0% 100%);
+  clip-path: polygon(20% 0%, 81% 0, 100% 100%, 0% 100%);
+  /* z-index: -1; */
+}
+#earL {
+  position: absolute;
+  height: 80%;
+  width: 40%;
+  top: -70%;
+  left: -8%;
+  transform: rotate(330deg);
+  background-color: #eca970;
+  -webkit-clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+  clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+  z-index: -1;
+}
+#earR {
+  position: absolute;
+  height: 80%;
+  width: 40%;
+  top: -70%;
+  right: -8%;
+  transform: rotate(30deg);
+  background-color: #eca970;
+  -webkit-clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+  clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+  z-index: -1;
+}
+.innerEar {
+  position: absolute;
+  height: 80%;
+  width: 50%;
+  left: 25%;
+  top: 10%;
+  background-color: white;
+  -webkit-clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+  clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+}
