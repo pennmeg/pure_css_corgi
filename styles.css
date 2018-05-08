@@ -148,10 +148,32 @@ body {
   position: absolute;
   width: 80%;
   height: 60%;
-  bottom: -46%;
+  bottom: -48%;
   left: 10%;
   background-color: red;
   -webkit-clip-path: polygon(100% 0, 0 0, 50% 54%);
   clip-path: polygon(100% 0, 0 0, 50% 54%);
   z-index: -1;
+}
+#fillL {
+  position: absolute;
+  width: 10%;
+  height: 11%;
+  top: -28%;
+  left: 16.2%;
+  background-color: #eca970;
+  transform: rotate(330deg);
+  -webkit-clip-path: polygon(0 100%, 100% 100%, 100% 0);
+  clip-path: polygon(0 100%, 100% 100%, 100% 0);
+}
+#fillR {
+  position: absolute;
+  width: 10%;
+  height: 12%;
+  top: -28%;
+  right: 15.2%;
+  background-color: #eca970;
+  transform: rotate(28deg);
+  -webkit-clip-path: polygon(0 100%, 100% 100%, 0 0);
+  clip-path: polygon(0 100%, 100% 100%, 0 0);
 }
