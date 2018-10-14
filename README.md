@@ -5,5 +5,10 @@ Part of a goal to create images use pure CSS to strengthen understanding and pra
 Other Pure CSS Images
 * https://github.com/pennmeg/pure_css_image
 * https://github.com/pennmeg/pure_css_laptop
+* https://github.com/pennmeg/pure_css_pug
+* https://github.com/pennmeg/pure_css_tayles
+* https://github.com/pennmeg/pure_css_cat
+* https://github.com/pennmeg/pure_css_duck
+* https://github.com/pennmeg/pure_css_ocanada
 
 Dedicated to Bradley (lover of all things corgi) who just graduated from her Master's program!
