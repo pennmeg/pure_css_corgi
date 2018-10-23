@@ -1,5 +1,7 @@
 ## Images Using Pure CSS
 
+![Final Version: Corgi](pure_css_corgi.png)
+
 Part of a goal to create images use pure CSS to strengthen understanding and practice of CSS
 
 Other Pure CSS Images
