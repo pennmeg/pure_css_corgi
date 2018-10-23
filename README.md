@@ -1,4 +1,4 @@
-# Pure CSS: Corgi
+# Pure CSS Challenge: Corgi
 
 ![Final Version: Corgi](pure_css_corgi.jpg)
 
