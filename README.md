@@ -8,6 +8,7 @@ Dedicated to Bradley (lover of all things corgi) who just graduated from her Mas
 
 ## Other Pure CSS Images
 
+* https://github.com/pennmeg/pure_css-donut
 * https://github.com/pennmeg/pure_css_desk-flatlay
 * https://github.com/pennmeg/pure_css_pixel_heart
 * https://github.com/pennmeg/pure_css_image
